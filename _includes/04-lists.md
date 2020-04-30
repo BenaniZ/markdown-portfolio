@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+I can recommend the following books:
+* Utopia for realists
+* Short answers to big questions 
