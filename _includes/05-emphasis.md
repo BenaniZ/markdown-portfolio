@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Now, I know the **Basics** of Git. *Markdown* is an important part of communciation of GitHub. I like that :+1:.
